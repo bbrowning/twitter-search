@@ -21,7 +21,7 @@ date: 2009-06-30 00:00:00 -04:00
 default_executable: 
 dependencies: 
 - !ruby/object:Gem::Dependency 
-  name: json
+  name: json-jruby
   type: :runtime
   version_requirement: 
   version_requirements: !ruby/object:Gem::Requirement 
